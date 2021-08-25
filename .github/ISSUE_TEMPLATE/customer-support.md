@@ -1,6 +1,6 @@
 ---
-name: Customer Support
-about: Describe this issue template's purpose here.
+name: Public Support Issue
+about: This template is for capturing externally-facing issues.
 title: ''
 labels: ''
 assignees: ''
